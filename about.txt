@@ -1,0 +1,3 @@
+My name is Swetha
+Course: BCA
+GitHub is used to add new features to apps.
